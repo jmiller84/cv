@@ -18,7 +18,8 @@ I developed a stock trading application which uses data from the yahoo finance A
 **Tech Used** 
 
 Python, Pandas, Numpy, Django, Y-Finance API, Plotly, HTML
-
+<br>
+<br>
 ### Positivity Stream 
 
 A twitter style application that using the chatGPT API to review users posts and only allow positive message to be posted on the message boards. Built using TDD.
@@ -27,8 +28,9 @@ A twitter style application that using the chatGPT API to review users posts and
 
 Python, Flask, Postgresql, HTML
 
-
-### Makers Academy Bootcamp
+<br>
+<br>
+### Makers Academy Bootcamp
 
 https://makers.tech/curriculum
 
