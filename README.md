@@ -11,7 +11,7 @@ I've always considered myself to have an engineering mindset, and discovering so
 
 ### Trade Hub
 
-https://github.com/jmiller84/stock_scanner_django/tree/main/trade-hub-app/trade_hub
+https://github.com/jmiller84/stock_scanner_django/tree/main/trade-hub-app/trade_hub/market_overview
 
 I developed a stock trading application which uses data from the yahoo finance API to recommend stocks based on a number of trading strategies.
 
