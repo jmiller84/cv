@@ -20,6 +20,9 @@ I developed a stock trading application which uses data from the yahoo finance A
 Python, Pandas, Numpy, Django, Y-Finance API, Plotly, HTML
 <br>
 <br>
+<img src="screenshots/stratpage-screenshot2.png" alt="Homepage Screenshot"/>
+<br>
+<br>
 ### Positivity Stream 
 
 A twitter style application that using the chatGPT API to review users posts and only allow positive message to be posted on the message boards. Built using TDD.
