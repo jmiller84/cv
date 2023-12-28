@@ -25,11 +25,11 @@ Python, Pandas, Numpy, Django, Y-Finance API, Plotly, HTML
 <br>
 ### Positivity Stream 
 
-A twitter style application that using the chatGPT API to review users posts and only allow positive message to be posted on the message boards. Built using TDD.
+A twitter style application that uses the chatGPT API to review users posts and only allow positive message to be posted on the message boards. Built using TDD.
 
 **Tech Used**
 
-Python, Flask, Postgresql, HTML
+Python, Flask, Postgresql, HTML, 
 <br>
 <br>
 
