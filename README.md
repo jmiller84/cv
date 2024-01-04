@@ -57,6 +57,8 @@ Python, Pandas, Numpy, Django, Y-Finance API, Plotly, HTML
 <br>
 ### Positivity Stream 
 
+https://github.com/jmiller84/cheerchirp/tree/main
+
 A twitter style application that uses the chatGPT API to review users posts and only allow positive message to be posted on the message boards. Built using TDD.
 
 **Tech Used**
